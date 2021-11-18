@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi 👋, I'm Prachi Gupta!
+About Me
+👩‍🎓 I am an ethusiastic learner and am pursuing my undergradute in Electronic and Communications Engineering
+💻 I am exploring the fields of web development and Machine Learning and am focusing on problem solving
 <!--
 **Prachi-22-81/Prachi-22-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
