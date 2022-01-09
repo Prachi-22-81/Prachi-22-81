@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋, I'm Prachi Gupta</h2>
+<h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
 <h4 align="center">I am an aspiring software engineer </h4>
 
 ### About Me:
