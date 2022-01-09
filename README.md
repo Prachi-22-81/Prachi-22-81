@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Prachi Gupta</h1>
-<h3 align="center">I am an ethusiastic learner</h3>
+<h2 align="center">Hi 👋, I'm Prachi Gupta</h2>
+<h4 align="center">I am an aspiring software engineer </h4>
 
 ### About Me:
-
-- 🎓 I am currently a second year undergraduate student.
-- 🔭 I like to solve real life problems and am exploring the fields of web development and Machine Learning.
+- 🎓 I am currently a second year undergraduate student at Indira Gandhi Delhi Technical Univeristy for Women.
+- 🔭 I like to solve real life problems and am exploring the fields of Web Development and Machine Learning.
 - ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer.
 <p align="left">
 </p>
