@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Prachi Gupta</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="10px" height="40px">, I'm Prachi Gupta</h1>
 <h4 align="center">An aspiring software engineer </h4>
 
  ## 🙋‍♀️ About Me
