@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎓 I am currently a second year undergraduate student at Indira Gandhi Delhi Technical Univeristy for Women.
 - 🔭 I like to solve real life problems and am exploring the fields of Web Development and Machine Learning.
-- 🌱 I’m currently learning **NodeJs** and **Data Structures and Algorithms.**
+- 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate with people/organizations and enhance my skills as a developer.
 </h3>
 
