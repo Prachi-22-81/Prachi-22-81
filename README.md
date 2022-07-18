@@ -41,7 +41,6 @@ Here are some ideas to get you started:
  <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="70" height="80"/>
  <img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "70">
  
- <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="Nodejs" width="70" height="80"/>
 <!--  <img src="https://iconscout.com/icon/firebase-1" alt="Firebase" width="70" height="80"/> -->
  
  </p>
