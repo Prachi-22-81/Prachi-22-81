@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h4 align="center">An aspiring software engineer </h4>
 
  ## 🙋‍♀️ About Me
-
-- 🎓 I am currently a second year undergraduate student at Indira Gandhi Delhi Technical Univeristy for Women.
 - 🔭 I like to solve real life problems and am exploring the fields of Web Development and Machine Learning.
 - 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate with people/organizations and enhance my skills as a developer.
