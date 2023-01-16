@@ -42,13 +42,3 @@ Here are some ideas to get you started:
 <!--  <img src="https://iconscout.com/icon/firebase-1" alt="Firebase" width="70" height="80"/> -->
  
  </p>
-
-
- ## 📊 My Github Stats
-<p >
- <img align = "left" src="https://github-readme-stats.vercel.app/api?username=Prachi-22-81&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img align = " right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-22-81&count_private=true&theme=dracula">
- 
-</p>
-<br> <br>
-<h4 align="center"> Thanks for Visiting!!</h4>
