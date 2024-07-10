@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Prachi Gupta</h1>
-<h4 align="center">An aspiring software engineer </h4>
+<h4 align="center">software engineer </h4>
 
  ## 🙋‍♀️ About Me
 - 🔭 I like to solve real life problems and am exploring the fields of Web Development and Machine Learning.
